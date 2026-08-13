@@ -18,14 +18,54 @@
 
 <br>
 
-```bash
-doc-mckinney@browndog:~$ whoami
-> Full-stack engineer building infrastructure tools & SaaS that companies
-> bet their operations on.
+<!--
+  EDIT ME — neofetch-style panel below.
+  - "OS: Linux" -> swap for whatever you actually run day-to-day.
+  - "Focus" / "Stack" / "Deploy" / "Sites" / "Projects" -> keep in sync with the
+    Stack and Featured Builds sections further down so nothing drifts out of date.
+  - "Philosophy" -> your line, change whenever it changes.
+  - The ASCII portrait is a hand-drawn stylized silhouette, not a pixel-mapped
+    conversion. To swap in a precise conversion of your own avatar/logo, drop the
+    image file in this folder and ask Claude to run it through an image-to-ASCII
+    script instead of hand-editing the block characters below.
+-->
 
-doc-mckinney@browndog:~$ cat philosophy.txt
-> If it's not secure, it's not finished.
-> If it's not unique, it's not worth shipping.
+```
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘¡:‘‘—@eà®Í»’‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘½Î—‘‘‘¦&p$9DÒV‰öüLƒ+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘%FA¶$âÔÔÔAdL%8ÚáîhèÔÿv/;‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘wßÔAAÔAac4éZ×d8A¥«¬ý€€A3Oª‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘•u¾Ó€G¥šµÝFGGDIÞÞklýÔAZéd»‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘!äàm€ÞÓFDÿ6ßèðÔƒ>§Ô«ÔAApé¼‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘ŸbeëAÓç«‘‘‘‘;¬«íz!^+àAøñž’‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘†vÿAÒ+‘‘‘‘‘‘‘‘‘‘‘‘‘‘²ëÔÓ1²‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘ª±$Ôýi‘‘‘‘‘‘‘‘‘‘‘‘‘‘!ÜÔ8™~‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      andrew@mckinney ────────────────────────────────────────
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘²ñpÙÌñ)‘‘‘‘‘‘‘‘‘‘‘‘‘‘³Fµápé«‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - OS:.................. Linux, Windows 11, Android, macOS
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘|d¶SŸª‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘f§¶Gv‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - Uptime:..................... 33 years, 3 months, 0 days
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘!î×ÝÜðGG¶ø8šŸŸk8ð¶GGøÚàï>ì‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - Host:......................... Brown Dog Solutions, LLC
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘–úÔAÙÙÙÙ8pAÚz†AÔAGäøèÚøÔ9‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - Kernal:.................. SaaS & infrastructure tooling
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘»ÞAp8ñÿeøÔAb[)àÔA¶ÙZkÞAÔÔ³‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - Languages.Programming:................ PHP, JS/TS, Node
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘”UÔAA$GÔAÔ±:‘‘‘¤mÔßd€ÔAÔ¥‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - Languages.Computer:...... HTML, CSS, JSON, MySQL, React
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘º(w$AAßåV³‘‘‘‘‘‘–CbmÔAÚa}ª‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      - Languages.Real:................................ English
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘vAb÷­²:‘‘‘‘‘‘‘‘‘‘‘‘:–¹÷§ß@‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘      
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘›±mA6“‘:ªôßAA€AAO“’’;õÔÔÏª‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘iFÔAAãÜÖÖëGðÙèÜã$åÞ$GAAÔ$ì‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘|áAAßSïÇb1~/¡¬+º[ÓñJxßAÔÓ¬‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘(ëAA8¥ßAèš0AAAA®6åÔAÇâAAA|‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘¯sßAAAÖZ93<&AAAAT=V5PÖAAAA©^:‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘o€$FAãÜšÓIÏpAAAAp3[ÚñdpmÖÜÔ£;‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘’0ßÙ5éAAAAÔÖýAAAAAÔÙDÔAAAAâ±Ôp2­‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘c©ÔAAAAAAÔAAAAAAAAAÔÔÔÔAAÔÔÔžI‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘:ªÚÔÔAÔm4üèðÇÓÔA€žÔhµUdÔAÔÔ€ì:‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘JdmAAÌ½‰¼¶ïŸÚA&©ÒÍ}CnâApd©‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘»äAAA6>nhü@kD$úw5ét<OpAÔÿ{‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘+ÖDÇ4@ýãAé2ÞÔlÚAÔ$ù0Gõ$[‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘’~xw³Öñ§ðcmAláûñð)£Ý¯›‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘ª³}%/ký­½(³—‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘;:‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘‘
+
 ```
 
 <br>
@@ -116,19 +156,3 @@ A unified command layer that pulls disparate management tools and systems into a
 ```
 
 </div>
-
-<!--
-## Hi there 👋
-**doc-mckinney/doc-mckinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
