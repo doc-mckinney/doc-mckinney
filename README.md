@@ -119,13 +119,6 @@ A unified command layer that pulls disparate management tools and systems into a
 
 <br>
 
-## 🐍 &nbsp;Contribution Grid
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/doc-mckinney/doc-mckinney/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 <br>
 
